@@ -1,6 +1,6 @@
 >纠结了很久，我决定用官方文档学习
 
-@[TOC](ZooKeeper概述)
+
 # 学习文档
 + 1 [中文翻译](https://duoke360.com/course/zookeeper-docs/zookeeperOver)
 + 2 [官方文档](https://zookeeper.apache.org/doc/r3.5.5/zookeeperOver.html)
