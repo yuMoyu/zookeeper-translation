@@ -2,7 +2,7 @@
 
 步骤：
 安装java就省略啦~
-@[TOC](手把手教你如何导入源码，zookeeper为例)
+# 手把手教你如何导入源码，zookeeper为例
 #  软件
 ## 一，安装idea
 官网[下载](https://www.jetbrains.com/idea/)，我下载的是2020.1的专业版本，嗯。至于如何那个，[参考](https://blog.csdn.net/moqianmoqian/article/details/112890989)这个第10条
